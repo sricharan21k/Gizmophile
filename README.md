@@ -8,6 +8,8 @@ Welcome to Gizmophile, a cutting-edge e-commerce web application where gadget en
 ## Live Demo
 Check out Gizmophile live in action here: [Gizmophile Live](http://gizmophileapp.s3-website.ap-south-1.amazonaws.com/home)
 
+**Note**: When accessing the website from mobile devices, users should edit the URL to use "http" instead of "https".  
+
 ### Repositories
 Our project is split into two main repositories:
 - [Frontend Repository](https://github.com/sricharan21k/gizmophile-frontend.git)
